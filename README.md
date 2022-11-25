@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning TypeScript and Angular
 - 📫 How to reach me neven.jo19@gmail.com
 
-Exercises links:\
+Exercise links:\
 animated-input-fields [CodePen](https://codepen.io/marigold001/full/rNKJEZJ)\
 ombd-api [CodePen](https://codepen.io/marigold001/full/YzvavZV)\
 sliding-sidebar [CodePen](https://codepen.io/marigold001/full/dyKmKKz)\
