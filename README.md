@@ -9,7 +9,9 @@ ombd-api [CodePen](https://codepen.io/marigold001/full/YzvavZV)\
 sliding-sidebar [CodePen](https://codepen.io/marigold001/full/dyKmKKz)\
 sliding-social-menu [CodePen](https://codepen.io/marigold001/full/NWzYzeJ)\
 doctor's office contact form [CodePen](https://codepen.io/marigold001/full/dyKmKEJ)\
-image info [CodePen](https://codepen.io/marigold001/full/abKYjoW)
+image info [CodePen](https://codepen.io/marigold001/full/abKYjoW)\
+weather-api [CodePen](https://codepen.io/marigold001/full/MWXXZYb)
+
 <!---
 marigold001/marigold001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
