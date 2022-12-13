@@ -10,8 +10,9 @@ sliding-sidebar [CodePen](https://codepen.io/marigold001/full/dyKmKKz)\
 sliding-social-menu [CodePen](https://codepen.io/marigold001/full/NWzYzeJ)\
 doctor's office contact form [CodePen](https://codepen.io/marigold001/full/dyKmKEJ)\
 image info [CodePen](https://codepen.io/marigold001/full/abKYjoW)\
-weather-api [CodePen](https://codepen.io/marigold001/full/MWXXZYb)\
-blur-cards [CodePen](https://codepen.io/marigold001/full/abKQrqE)
+blur-cards [CodePen](https://codepen.io/marigold001/full/abKQrqE)\
+minified-header-menu [CodePen](https://codepen.io/marigold001/full/xxzQoLB)\
+full-screen-overlay-menu [CodePen](https://codepen.io/marigold001/full/xxzNGJw)
 
 <!---
 marigold001/marigold001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
