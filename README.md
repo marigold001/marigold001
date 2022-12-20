@@ -5,11 +5,11 @@
 
 Exercise links:\
 animated-input-fields [CodePen](https://codepen.io/marigold001/full/rNKJEZJ)\
-ombd-api [CodePen](https://codepen.io/marigold001/full/YzvavZV)\
-sliding-sidebar [CodePen](https://codepen.io/marigold001/full/dyKmKKz)\
 sliding-social-menu [CodePen](https://codepen.io/marigold001/full/NWzYzeJ)\
 full-screen-overlay-menu [CodePen](https://codepen.io/marigold001/full/xxzNGJw)\
 hamburger-side-menu [CodePen](https://codepen.io/marigold001/full/rNraeaL)
+
+[CodePen Collection](https://codepen.io/collection/kNvJNY)
 
 <!---
 marigold001/marigold001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
