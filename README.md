@@ -6,7 +6,6 @@
 Exercise links:\
 animated-input-fields [CodePen](https://codepen.io/marigold001/full/rNKJEZJ)\
 sliding-social-menu [CodePen](https://codepen.io/marigold001/full/NWzYzeJ)\
-full-screen-overlay-menu [CodePen](https://codepen.io/marigold001/full/xxzNGJw)\
 hamburger-side-menu [CodePen](https://codepen.io/marigold001/full/rNraeaL)
 
 [CodePen Collection](https://codepen.io/collection/kNvJNY)
