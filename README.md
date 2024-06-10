@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @marigold001
-- 👀 I’m interested in front-end and full-stack development
-- 🌱 I’m currently learning TypeScript and Angular
+- 👀 I’m interested in PHP development
 - 📫 How to reach me neven.jo19@gmail.com
+- I have experience in ecommerce
 
-Exercise links:\
+Exercise links:\ 2021
 animated-input-fields [CodePen](https://codepen.io/marigold001/full/rNKJEZJ)\
 sliding-social-menu [CodePen](https://codepen.io/marigold001/full/NWzYzeJ)\
 hamburger-side-menu [CodePen](https://codepen.io/marigold001/full/rNraeaL)
